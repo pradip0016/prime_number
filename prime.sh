@@ -1,5 +1,5 @@
 #!/bin/bash -x
-
+echo " prime number simulation "
 echo " enter the number: "
 read n
 number=$(( $n/2 ))
